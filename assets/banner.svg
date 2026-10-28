@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Rafael Miguel — Tech Lead. Crédito, Cobrança e sistemas financeiros orientados a eventos.">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2B7A6F" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2B7A6F" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="veil" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FAFAF8" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#FAFAF8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FAFAF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2B7A6F" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" fill="#FAFAF8"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+
+  <g transform="translate(700,0)">
+    <g stroke="#2B7A6F" fill="none" stroke-width="1.6" stroke-opacity="0.55">
+      <path d="M40 90 H200 M240 90 H400 M440 90 H560"/>
+      <path d="M40 170 H200 M240 170 H400 M440 170 H560"/>
+      <path d="M40 250 H200 M240 250 H400 M440 250 H560"/>
+      <path d="M200 90 C222 90 218 170 240 170"/>
+      <path d="M200 250 C222 250 218 170 240 170"/>
+      <path d="M400 170 C422 170 418 90 440 90"/>
+      <path d="M400 170 C422 170 418 250 440 250"/>
+    </g>
+    <g fill="#FAFAF8" stroke="#2B7A6F" stroke-width="2">
+      <circle cx="220" cy="90" r="9"/><circle cx="220" cy="170" r="9"/><circle cx="220" cy="250" r="9"/>
+      <circle cx="420" cy="90" r="9"/><circle cx="420" cy="170" r="9"/><circle cx="420" cy="250" r="9"/>
+    </g>
+    <g fill="#2B7A6F">
+      <circle cx="420" cy="170" r="4.5"/><circle cx="220" cy="170" r="4.5"/>
+      <rect x="556" y="84" width="12" height="12" rx="2"/>
+      <rect x="556" y="164" width="12" height="12" rx="2"/>
+      <rect x="556" y="244" width="12" height="12" rx="2"/>
+    </g>
+    <g font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#2B7A6F" fill-opacity="0.75">
+      <text x="44" y="78">proposal.created</text>
+      <text x="44" y="158">payment.settled</text>
+      <text x="44" y="238">debt.overdue</text>
+    </g>
+  </g>
+  <rect x="640" width="340" height="340" fill="url(#veil)"/>
+
+  <rect x="80" y="54" width="120" height="3" fill="url(#fade)"/>
+
+  <text x="80" y="42" font-family="ui-monospace, 'Courier New', monospace" font-size="15" letter-spacing="3" fill="#2B7A6F">RAFAEL MIGUEL</text>
+
+  <text x="80" y="128" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="46" font-weight="600" fill="#15211F">Tech Lead</text>
+  <text x="80" y="180" font-family="Lora, Georgia, 'Times New Roman', serif" font-size="27" fill="#2B7A6F">Crédito, Cobrança &amp; Core Banking</text>
+
+  <text x="80" y="226" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#4A5A57">Sistemas financeiros orientados a eventos — alta disponibilidade,</text>
+  <text x="80" y="250" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" fill="#4A5A57">consistência de dinheiro e domínio de negócio acima de framework.</text>
+
+  <g font-family="ui-monospace, 'Courier New', monospace" font-size="12.5" fill="#2B7A6F">
+    <rect x="80" y="278" width="92" height="26" rx="13" fill="none" stroke="#2B7A6F" stroke-opacity="0.35"/>
+    <text x="96" y="295">Java</text>
+    <rect x="182" y="278" width="92" height="26" rx="13" fill="none" stroke="#2B7A6F" stroke-opacity="0.35"/>
+    <text x="198" y="295">.NET</text>
+    <rect x="284" y="278" width="92" height="26" rx="13" fill="none" stroke="#2B7A6F" stroke-opacity="0.35"/>
+    <text x="300" y="295">Kafka</text>
+    <rect x="386" y="278" width="134" height="26" rx="13" fill="none" stroke="#2B7A6F" stroke-opacity="0.35"/>
+    <text x="402" y="295">Kubernetes</text>
+    <rect x="530" y="278" width="78" height="26" rx="13" fill="none" stroke="#2B7A6F" stroke-opacity="0.35"/>
+    <text x="546" y="295">Pix</text>
+  </g>
+</svg>
