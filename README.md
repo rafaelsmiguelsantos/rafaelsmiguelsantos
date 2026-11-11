@@ -8,7 +8,7 @@
 
 ---
 
-Sou **Tech Lead** especializado em **crédito, cobrança e meios de pagamento**. Construí carreira por domínio, não por empresa: motores de cobrança, precificação de crédito, régua de recuperação, Pix e eventos regulatórios de crédito — passando por **Serasa Experian**, **Bankly**, **Banco BV** e **Bradesco** (via consultoria).
+Sou **Tech Lead** especializado em **crédito, cobrança e meios de pagamento**. Construí carreira por domínio, não por empresa: motores de cobrança, precificação de crédito, régua de recuperação, Pix e eventos regulatórios de crédito — passando por **Serasa Experian**, **Bankly**, **Banco BV** e **Bradesco**.
 
 O que me interessa é a parte difícil: **dinheiro não pode ser contado duas vezes**. Idempotência, condições de corrida, reserva de saldo, máquinas de estado e consistência eventual em sistemas que não podem parar.
 
